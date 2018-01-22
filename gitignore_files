@@ -1,0 +1,3 @@
+Gitignore files contain a list of files to be ignored by Git.
+
+The gitignore must be add to the Git Repository before any commit as files added to the ignore file after they have been commited will not be ignored.
